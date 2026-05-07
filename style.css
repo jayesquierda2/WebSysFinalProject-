@@ -1,7 +1,5 @@
-
 body {
     font-family: 'Poppins', 'Segoe UI', sans-serif;
-    /* This creates a colorful, modern gradient background */
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     background-attachment: fixed;
     margin: 0;
